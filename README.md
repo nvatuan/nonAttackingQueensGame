@@ -12,6 +12,12 @@ If the CPU cant win it will state that it's moving randomly. ood luck.
 # Postscript
 After letting a no-brainer's terribly-written, poorly-designed brute-force running about half an hour
 
-Here is the result. First column is **N**, second column is the winner (normal text is First player, Bold text is Second player), third column is the optimal First move, last collumn is runtime.
+Here is the result. First column is **N**, second column is the winner of the board size **N\*N** (normal text is First player, Bold text is Second player), third column is the optimal First move, last collumn is runtime.
+
+It is quite interesting to see Second player starting to have a chance when it reaches *N = 10*.
 
 ![Data](https://github.com/nvatuan/nonAttackingQueensGame_mytake/blob/master/dat.png)
+
+Also there is a optimal strategy for First player to always win on board given **N is an odd number**. Placing in the middle first then mirror Second player's move (through the center). 
+
+So we know First player win roughly half of the time.
