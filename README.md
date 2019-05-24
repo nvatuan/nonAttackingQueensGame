@@ -7,7 +7,7 @@ Using brute-force to calculate all possible games on a N\*N board, take N as inp
 
 ### BMP.h
 just a header that allows me to edit .BMP files easily
-![Here is where i got it from](https://github.com/sol-prog/cpp-bmp-images/blob/master/BMP.h)
+[Here is where i got it from](https://github.com/sol-prog/cpp-bmp-images/blob/master/BMP.h)
 
 ### nAQ_Play.cpp
 A program allows you to play against a optimally play CPU. (with visual assistance through writing image onto hard drive. this is convenient because most image viewers reload itself if its image file changes)
