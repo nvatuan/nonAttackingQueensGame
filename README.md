@@ -7,7 +7,7 @@ Using brute-force to calculate all possible games on a N\*N board, take N as inp
 ### nAQ_Play.cpp
 A program allows you to play against a optimally play CPU. (with visual assistance through writing image onto hard drive. this is convenient because most image viewers reload itself if its image file changes)
 
-If the CPU cant win it will state that it's moving randomly. ood luck.
+If the CPU cant win it will state that it's moving randomly. Good luck.
 
 # Postscript
 After letting a no-brainer's terribly-written, poorly-designed brute-force running about half an hour
