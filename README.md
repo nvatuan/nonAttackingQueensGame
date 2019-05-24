@@ -1,8 +1,7 @@
 # Non attacking queens Game (aka. n-queens game)
 this or the "n-queens game" is a 2 players game, where each turn, one person place a queen into a board on a unattacked tile. Player who can't move when it's their turn is the loser.
 
-# Source
-
+# Files
 ### nAQ_Winner.cpp
 Using brute-force to calculate all possible games on a N\*N board, take N as input, output the winner. (if they play optimally obviously)
 
