@@ -25,4 +25,4 @@ It is quite interesting to see Second player starting to have a chance when it r
 
 Also there is a optimal strategy for First player to always win on board given **N is an odd number**. Placing in the middle first then mirror Second player's move (through the center). 
 
-So we know First player win roughly half of the time.
+So we know First player wins roughly half of the time.
