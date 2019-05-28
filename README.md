@@ -23,6 +23,6 @@ It is quite interesting to see Second player starting to have a chance when it r
 
 ![Data](https://github.com/nvatuan/nonAttackingQueensGame_mytake/blob/master/dat.png)
 
-Also there is a optimal strategy for First player to always win on board given **N is an odd number**. Placing in the middle first then mirror Second player's move (through the center). 
+Also there is an optimal strategy for First player to always win on board given **N is an odd number**. Placing in the middle first then mirror Second player's move (through the center). 
 
 So we know First player will win more than half of the time.
