@@ -10,7 +10,7 @@ just a header that allows me to edit .BMP files easily
 [Here is where i got it from](https://github.com/sol-prog/cpp-bmp-images/blob/master/BMP.h)
 
 ### nAQ_Play.cpp
-A program allows you to play against a optimally play CPU. (with visual assistance through writing image onto hard drive. this is convenient because most image viewers reload itself if its image file changes)
+A program allows you to play against an optimally CPU player. (with visual assistance through writing image onto hard drive. this is convenient because most image viewers reload itself if its image file changes)
 
 If the CPU cant win it will state that it's moving randomly. Good luck.
 
